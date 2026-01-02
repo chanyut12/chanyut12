@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+My name is Chanyut Lisawat (U can call Ping for short) , and I'm a computer science student at BUU 
+Interested all things on NLP especially on LLM! , Web programming , Computer Vision and much more.
+- 🔭 I’m currently working on NLP-on-SQL-Agent project , 
+- 🌱 I’m currently learning GAT (Graph Attention Network) , GNN , Dialogues
 - 👯 I’m looking to collaborate on ...
 
 <!--
