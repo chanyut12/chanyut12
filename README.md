@@ -7,9 +7,9 @@ Interested all things on NLP especially on LLM! , Web programming , Computer Vis
 - 👯 I’m looking to collaborate on ...
 
 ## Contact : 
-Mobile : (+66) 099-498-2563
-Email : chanyut.lisawat25@gmail.com
-Website and Portfolio : ...
+- Mobile : (+66) 099-498-2563
+- Email : chanyut.lisawat25@gmail.com
+- Website and Portfolio : ...
 
 <!--
 **chanyut12/chanyut12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
